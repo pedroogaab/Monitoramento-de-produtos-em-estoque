@@ -1,0 +1,5 @@
+# For install dataset
+kagglehub
+
+ultralytics
+torch
