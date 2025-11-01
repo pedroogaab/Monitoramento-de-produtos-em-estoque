@@ -3,3 +3,4 @@ kagglehub
 
 ultralytics
 torch
+opencv-python
