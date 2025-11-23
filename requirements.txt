@@ -1,6 +1,4 @@
-# For install dataset
-kagglehub
-
 ultralytics
 torch
 opencv-python
+pathlib
